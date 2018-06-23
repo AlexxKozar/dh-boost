@@ -1,0 +1,49 @@
+@font-face{
+    font-family: 'FuturaPTBold';
+    src:  url("../fonts/FuturaPTBold.otf") format('truetype');
+}
+@font-face{
+    font-family: 'FuturaPTBook';
+    src:  url("../fonts/FuturaPTBook.otf") format('truetype');
+}
+@font-face{
+    font-family: 'FuturaPTDemi';
+    src:  url("../fonts/FuturaPTDemi.otf") format('truetype');
+}
+@font-face{
+    font-family: 'FuturaPTExtraBold';
+    src:  url("../fonts/FuturaPTExtraBold.otf") format('truetype');
+}
+@font-face{
+    font-family: 'FuturaPTHeavy';
+    src:  url("../fonts/FuturaPTHeavy.otf") format('truetype');
+}
+@font-face{
+    font-family: 'FuturaPTLight';
+    src:  url("../fonts/FuturaPTLight.otf") format('truetype');
+}
+@font-face{
+    font-family: 'FuturaPTMedium';
+    src:  url("../fonts/FuturaPTMedium.otf") format('truetype');
+}
+@font-face{
+    font-family: 'GilroyExtraBold';
+    src:  url("../fonts/GilroyExtraBold.otf") format('truetype');
+}
+@font-face{
+    font-family: 'GilroyLight';
+    src:  url("../fonts/GilroyLight.otf") format('truetype');
+}
+
+
+
+$gilory: "GilroyExtraBold";
+$ebold: "FuturaPTExtraBold";
+$bold: "FuturaPTBold";
+$heavy: "FuturaPTHeavy";
+$demi: "FuturaPTDemi";
+$medium: "FuturaPTMedium";
+$book: "FuturaPTBook";
+$light: "FuturaPTLight";
+$gilory-l: "GilroyLight";
+
