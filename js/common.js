@@ -1,4 +1,17 @@
 $(document).ready(function(){
+
+
+
+    $('.portfolio_items').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    dots: true
+  });
+
+
+
+
    $('.button-scroll').click( function(){ 
    var scroll_el = $(this).attr('href'); 
           if ($(scroll_el).length != 0) { 
@@ -20,3 +33,4 @@ $(document).ready(function(){
     }, 1000)
 
  });
+
